@@ -1,2 +1,5 @@
-# PDS
-PDS classes - Software Patterns and Design in Java
+# PDS 2025/2026
+
+Padrões e Desenho de Software<br>
+Inês Batista, 124877
+Maria Quinteiro, 124996

@@ -1,0 +1,5 @@
+Acedendo à classe fornecida em Calendar.java, encontramos os construtores protected Calendar() e protected Calendar(TimeZone zone, Locale aLocale).
+Como estes construtores são protected, apenas podem ser acedidos dentro da própria classe ou por subclasses.
+Portanto, para criar instâncias, é usado o método estático getInstance(), disponível com diferentes conjuntos de argumentos.
+Internamente, getInstance() chama o método createCalendar(), que cria e retorna a subclasse concreta apropriada de Calendar, geralmente GregorianCalendar, configurada com o TimeZone e o Locale corretos.
+Com isto, concluímos que a classe Calendar implementa o Factory Design Pattern, pois oculta a criação das subclasses concretas e fornece um ponto centralizado de criação de instâncias.

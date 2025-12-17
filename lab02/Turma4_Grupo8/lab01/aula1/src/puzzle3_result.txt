@@ -1,0 +1,24 @@
+BANANA           6   1,  1 DownRight 
+APPLE            5   1,  6 DownLeft  
+ORANGE           6   1, 15 Down      
+PEAR             4  10,  9 Left      
+PASSIONFRUIT    12  12, 14 UpLeft    
+PINEAPPLE        9  14, 15 Up        
+STRAWBERRY      10  12,  3 UpRight   
+BLUEBERRY        9  12,  4 Right     
+
+B _ T _ _ A _ _ _ _ _ _ _ _ O 
+_ A _ I P _ _ _ _ _ _ _ _ _ R 
+_ _ N P U _ _ _ _ _ _ Y _ _ A 
+_ _ L A _ R _ _ _ _ R _ _ _ N 
+_ E _ _ N _ F _ _ R _ _ _ _ G 
+_ _ _ _ _ A _ N E _ _ _ _ _ E 
+_ _ _ _ _ _ _ B O _ _ _ _ _ L 
+_ _ _ _ _ _ W _ _ I _ _ _ _ P 
+_ _ _ _ _ A _ _ _ _ S _ _ _ P 
+_ _ _ _ R R A E P _ _ S _ _ A 
+_ _ _ T _ _ _ _ _ _ _ _ A _ E 
+_ _ S B L U E B E R R Y _ P N 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ I 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ P 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
