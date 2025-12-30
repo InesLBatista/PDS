@@ -1,11 +1,11 @@
 # Sistema de Logger Global
-A aplicação deve ter um sistema de logging centralizado, garantindo que apenas **uma instância do Logger** exista em todo o sistema.
+A aplicação deve ter um sistema de logging centralizado, garantindo que apenas uma instância do Logger exista em todo o sistema.
 
 ## Contexto
 Em muitas aplicações, é necessário registrar mensagens de log (informações, avisos, erros) de forma consistente e centralizada.  
 Criar múltiplas instâncias de um logger pode levar a inconsistências e duplicação de mensagens.
 
-O Singleton Pattern garante que exista apenas uma instância de uma classe e fornece **um ponto de acesso global** a essa instância.
+O Singleton Pattern garante que exista apenas uma instância de uma classe e fornece um ponto de acesso global a essa instância.
 
 ## Requisitos
 - Classe Logger com:
